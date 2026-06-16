@@ -1,0 +1,2306 @@
+[
+    {
+        "id": "zh_dis_front_522_Calculus",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙结石疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙结石常表现为牙齿表面的黄色或棕色硬质沉积物。结合影像分析，牙齿表面和牙龈线附近未见明显的典型牙结石沉积物，因此判断没有牙结石疾病。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_right_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有后牙锁合的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n后牙锁合（posterior crossbite）是指上下颌后牙在咬合时出现交叉关系，其表现形式通常包括上颌后牙颊尖位于下颌后牙颊侧或上颌后牙舌尖位于下颌后牙舌侧。在影像中，可以看到左侧的上下后牙呈正常对合关系，即上颌后牙颊尖咬合在下颌牙的中心窝部位，因为没有观察到后牙区异常的颌关系，所以不符合后牙锁合的特征。因此判断不患有后牙锁合的问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_right_Types of Malocclusion",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>分析图像，列出患者的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "深覆合,深覆盖\n深覆合和深覆盖是常见的错合类型。深覆合指的是上前牙覆盖下前牙超过正常范围，在图中可以看到上下前牙的覆盖较深。深覆盖是指上下牙弓之间在前后方向上的过度覆盖，图中上前牙明显突出于下前牙前方。这些问题都可能影响美观及口腔功能。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_front_1394_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether the patient has a wedge-shaped defect problem through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nWedge-shaped defects typically occur at the cervical area of the teeth, presenting as V-shaped defects. Upon examination of the images, there are no obvious V-shaped defects or depressions in that area, and the surface morphology of the teeth appears relatively intact; therefore, it does not exhibit the characteristics of a wedge-shaped defect."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5109_Implant",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have any abnormalities with the implant?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nImplant abnormalities typically manifest as bone resorption, loosening, or damage around the implant. Imaging shows that the bone quality and surrounding tissues are intact, with no significant abnormalities observed."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_right_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has a posterior scissor bite from imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nPosterior scissor bite refers to the crossbite relationship of the posterior teeth in the upper and lower jaws during occlusion. Its manifestations typically include the buccal cusp of the upper posterior teeth being positioned on the buccal side of the lower posterior teeth or the lingual cusp of the upper posterior teeth being positioned on the lingual side of the lower posterior teeth. In the imaging, it can be observed that the upper and lower posterior teeth on the left side present a normal occlusal relationship, with the buccal cusp of the upper posterior teeth occluding in the central fossa of the lower teeth. Since no abnormal jaw relationship is observed in the posterior tooth area, it does not meet the characteristics of posterior scissor bite. Therefore, it is determined that there is no issue of posterior scissor bite."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4019_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有修复冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n修复冠是用来替代已损坏或被移除的牙冠的装置。从影像中可以观察到，上牙列的前牙区和下牙列的左侧后牙区存在明显的修复冠特征。这些区域显示出与天然牙齿不同的形态和密度，符合修复冠的典型影像学表现。因此可以确认该患者装有修复冠。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在开合？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n开合是指上下牙齿无法正常咬合。根据影像显示，患者上下牙齿咬合正常，没有明显的间隙或不对齐，符合正常的咬合特征。因此，不存在开合问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3329_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在阻生牙？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n阻生牙是指部分或完全埋伏在骨组织中，不能正常萌出的牙齿，常见于智齿区域。根据影像，上牙列的右侧后牙区域显示异常，可能存在水平或倾斜的牙齿阻生，符合阻生牙的表现。影像显示该区域牙齿未能正常萌出并出现定位异常，符合阻生牙的特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Identify from the images whether the patient has dental protrusion."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDental protrusion is a condition where the mandible is relatively retruded or the maxilla is relatively protruded, typically manifested as the anterior teeth being tilted forward or an excessive overjet of the anterior teeth. In imaging, the relative position of the upper and lower dental arches can be observed; if the anterior teeth are significantly protruded, there may be a dental protrusion issue. The imaging shows a significant maxillary protrusion, consistent with the characteristics of dental protrusion."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4019_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a prosthetic crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nThe prosthetic crown is an appliance used to replace damaged or removed dental crowns. From the imaging, there are obvious characteristics of prosthetic crowns observed in the anterior region of the upper dentition and the left posterior region of the lower dentition. These areas show different morphology and density compared to natural teeth, which is consistent with the typical radiographic appearance of prosthetic crowns. Therefore, it can be confirmed that the patient has prosthetic crowns."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_front_522_Calculus",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a calculus disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nCalculus commonly presents as yellow or brown hard deposits on the surface of the teeth. Combined with imaging analysis, there are no obvious typical calculus deposits observed on the surface of the teeth and near the gum line, therefore it is determined that there is no calculus disease."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_401_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a wedge-shaped defect?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nWedge-shaped defects typically present as wedge-shaped indentations at the neck of the teeth, primarily affecting the buccal or lingual surfaces. The images show a smooth tooth surface without obvious indentations or defects, thereby ruling out the presence of wedge-shaped defects."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_left_Types of Malocclusion",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>诊断影像中的错合类型？"
+            },
+            {
+                "from": "gpt",
+                "value": "后牙反合\n后牙反合是指后牙部分的牙齿反向咬合。图中可见上颌后牙咬在下颌后牙的内侧，符合后牙反合的特点。这种情况可能导致咀嚼功能不良，需进一步牙科检查以确定治疗方案。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在上颌前突的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n上颌前突是指上颌骨及其附属结构过度向前生长，导致前牙突出和面部突出的畸形。从影像上观察，患者的上颌骨相对于颌骨基底部位置正常，前牙排列整齐，没有明显的向前突出。同时，咬合关系良好，没有显示出任何矢状面的不协调。因此，影像未显示上颌前突相关症状。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_left_275_Soft Deposit",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在软垢？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n软垢是牙齿表面形成的软、白色沉积物，通常容易用牙刷去除。从影像上看，牙齿表面相对清洁，没有明显的软、白色沉积物迹象，因此判断不存在软垢。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>分析影像，确定患者的骨性分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "骨性II类\n骨性II类通常表现为下颌骨位置相对于上颌骨后缩或上颌骨前突。影像中可见上前牙覆盖较大，下颌位置看似稍后缩，与II类特征相符。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_panoramic_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the imaging and describe the patient's midline performance?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal\nMidline abnormalities may refer to the misalignment of teeth deviating from the normal symmetry line. Imaging may show inconsistencies or deviations in the dental midline, which could be caused by malocclusion, dental crowding, missing teeth, or facial asymmetry."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_upper_Dental Crowding",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在拥挤？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n拥挤是由于牙齿在颌骨上没有足够的空间排列整齐导致的。根据影像，可以观察到下颌牙齿排列不规则，牙齿重叠，说明存在拥挤现象。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_453_Caries",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在龋坏？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n龋坏通常表现为牙齿上有黑色或棕色的洞或变色区域。从影像分析中，没有看到明显的龋坏迹象，牙齿表面没有出现明显的颜色变化或腐蚀的现象。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lower_Dental Crowding",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有拥挤的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n拥挤是指牙齿排列不齐，导致空间不足。影像中可以看到双颌的牙齿排列拥挤，磨牙和前牙间距较小，部分牙齿有旋转和错位，这些特征是牙齿拥挤的常见表现。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lower_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there are any malocclusion issues related to dental spacing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe dental spacing issue typically manifests as an excess or deficiency of space between the teeth. In the imaging, the teeth are observed to be closely arranged, with no obvious gaps between them, and the occlusal relationship is normal, indicating that there is no issue with dental spacing."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_panoramic_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，描述患者的中线表现？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常\n中线异常可能指牙齿的排列偏离正常的对称线。影像显示可能存在牙列中线不一致或偏离，可能由错颌畸形、牙齿拥挤、缺失牙齿或面部不对称引起。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_965_Periodontal Disease",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有牙周病问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n牙周病的相关症状包括牙龈红肿、牙齿间隙加宽、牙龈退缩以及牙齿松动。在这张影像中，上牙列前牙区可见牙龈发红、肿胀迹象，并伴有牙龈退缩的情况，结合影像中前牙区的明显色素沉积和牙石，可能进一步加重牙周病。因此，患者可能存在牙周病问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_614_Periodontal Disease",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在牙周病的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙周病的相关症状包括牙龈出血、红肿、牙周袋形成、牙齿松动等。从影像观察，牙龈颜色正常，没有明显肿胀，牙齿排列整齐，未见显著牙周袋和松动迹象。因此判断不支持牙周病的存在。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's facial profile based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "maxillary protrusion，mandibular retrognathism\nMaxillary protrusion refers to the excessive forward projection of the maxilla relative to the cranial base, while mandibular retrognathism refers to the position of the mandible being excessively retracted relative to the cranial base. Combined with imaging, significant protrusion in the anterior maxillary region and retraction of the mandible can be observed, leading to the diagnosis of maxillary protrusion and mandibular retrognathism."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有牙前突的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n牙前突是一种下颌相对后缩或上颌相对前突的情况，通常表现为牙齿的前倾或上前牙覆盖过重。在影像中可以观察到上下颌牙列的相对位置，若前牙前倾显著，可能存在牙前突问题。影像显示出明显的上颌前突，符合牙前突的特征。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的面型？"
+            },
+            {
+                "from": "gpt",
+                "value": "上颌前突，下颌后缩\n上颌前突是指上颌骨相对于颅底过度向前突出，下颌后缩是指下颌骨相对于颅底位置过于向后。结合影像，可以观察到上前牙区域明显前突以及下颌后缩的特征，因此判断为上颌前突和下颌后缩。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在上颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n上颌前突是指上颌骨位置过于向前，与下颌骨不对称，通常在侧颅面X光片中表现为上颌骨与上前牙相对于下颌骨明显前移。结合影像，患者上、下颌骨基本对齐，没有明显的前突或不对称，因此判断为否。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have maxillary protrusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMaxillary protrusion refers to the position of the maxilla being excessively forward, resulting in asymmetry with the mandible. This is typically manifested in lateral cephalometric X-rays, where the maxilla and the upper anterior teeth are significantly displaced forward relative to the mandible. Based on the imaging, the patient's maxilla and mandible are generally aligned, with no significant protrusion or asymmetry observed; therefore, it is judged as negative."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_left_Angle's Classification",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者属于哪种安氏分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "安氏II类\n安氏II类错牙合畸形通常表现为下颌相对于上颌后缩，导致上前牙过度覆盖下前牙，出现深覆合。结合影像可以看到上前牙明显向前突出，下前牙相对后缩，符合安氏II类特征。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有乳牙萌出空间不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n乳牙萌出空间不足常表现为牙齿拥挤、排列不齐。在影像上观察到，上牙列的前牙区显示出牙齿之间的间隙较小，可能导致无法顺利萌出。因此，可以判断患有乳牙萌出空间不足。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1137_Calculus",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is calculus disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nCalculus is a hard mineral deposit that forms on the surface of teeth, typically appearing yellow or brown, and is commonly found near the gum line. The imaging shows a smooth surface of the teeth, with no obvious calculus deposits observed, indicating that there is no calculus disease present."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在乳牙萌出空间不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n乳牙萌出空间不足通常表现为牙齿拥挤或错位，可能导致恒牙的正常萌出受到影响。根据影像和给定的病变区域，上牙列的前牙区显示出牙齿排列紧密，可能存在空间不足的情况。这符合乳牙萌出空间不足的症状。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像识别，患者是否患有牙前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙前突是指上前牙过于向前突出，通常表现在上颌骨的前移或牙齿的异常位置。影像中观察到上颌前牙在面部比例中处于正常位置，上下颌关系正常，没有明显的前突迹象，故判断无牙前突问题。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_left_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a posterior scissor bite issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe posterior scissor bite issue typically manifests as misalignment and poor occlusion of the posterior teeth in the upper and lower dental arches. Upon examining the imaging of the posterior tooth area, the contact relationship between the upper and lower teeth appears normal, with no typical symptoms of posterior scissor bite, such as crossbite or asymmetric occlusion. Therefore, it is determined that there is no posterior scissor bite issue."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1119_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is a disease of tooth wear."
+            },
+            {
+                "from": "gpt",
+                "value": "No\nTooth wear refers to the loss of teeth due to physical abrasion. Through imaging observation, there are no obvious abnormal wear marks or dentin exposure on the tooth surface in this sample, and the surrounding gum tissue is healthy, showing no significant disease characteristics. Therefore, it is determined that there is no disease related to tooth wear."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2089_Residual Root",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在残根的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n残根是指牙齿根部部分通过龋齿或其他原因留在牙龈中的情况。通常在X光片中表现为牙齿冠部消失，仅剩下根部。本影像显示各牙齿结构完整，没有残根现象。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>What are the manifestations of the sagittal relationship in patients?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal\nThe sagittal relationship refers to the anterior-posterior relationship of the upper and lower dental arches during occlusion. The image shows that the mandible has a certain degree of retrusion or protrusion, which may lead to occlusal discrepancies. This misalignment phenomenon is referred to as abnormality. The arrangement of the teeth and the occlusal contact points can be observed, which is manifested in the image as a misalignment between the upper and lower dental arches, consistent with the abnormal sagittal relationship."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have insufficient space for the eruption of primary teeth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nInsufficient space for the eruption of primary teeth is often manifested as dental crowding and misalignment. Imaging shows that the anterior region of the upper dentition has smaller gaps between the teeth, which may lead to difficulties in proper eruption. Therefore, it can be concluded that there is insufficient space for the eruption of primary teeth."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2666_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an impacted tooth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nImpacted teeth refer to teeth that are hindered during the eruption process, usually due to insufficient space that prevents them from erupting normally. This image shows the right posterior region of the lower dentition and the left posterior region of both the upper and lower dentition, where there are suspected impacted positions that are consistent with the characteristics of impacted teeth, indicating that there may be wisdom teeth or other teeth in that area that are unable to fully erupt."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者是否存在下颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n下颌前突（反颌）是指下颌牙弓位于上颌牙弓前方，通常导致面部下半部分突出。从影像上看，该患者的上下牙弓在正常位置关系中，上颌位于前方，下颌位于后方，因此不符合下颌前突的症状特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2977_Fillings",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a filling disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nFilling diseases typically manifest as abnormal fillings, secondary caries, or damage to the dental structure surrounding the fillings. According to the imaging, there are signs of abnormal fillings in the right posterior region of both the upper and lower dentition, as well as in the left posterior region of the upper dentition. These areas may show incomplete margins of the fillings or damage to the adjacent dental structures, which aligns with the diagnostic criteria for filling diseases."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_336_Fillings",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在填充物？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n影像显示下牙列的左侧后牙区存在不规则的高密度影像，可能为牙科填充物。通常，填充物在X光片上呈现出比牙齿更高的密度和不规则的形态，与自然牙质区别明显。结合给定的病变区域，该情况符合存在填充物的表现。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the imaging and confirm if there is a posterior crossbite issue with the molars?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nPosterior crossbite refers to the condition where the lower posterior teeth are positioned outside the upper posterior teeth during occlusion. In the imaging, it can be observed that the upper teeth are in a normal position, covering the lower teeth, and the posterior occlusal relationship is normal, with no signs of crossbite."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_front_Deep Overbite",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在深覆合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n深覆合是指上前牙过度覆盖下前牙，超过正常范围。在影像中可以观察到，上前牙显著遮盖下前牙较大面积，这是深覆合的特征表现。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there mandibular protrusion based on the imaging assessment?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMandibular protrusion refers to the condition where the mandibular dental arch is positioned in front of the maxillary dental arch, typically resulting in a protruding lower facial appearance. From the imaging, the patient's upper and lower dental arches are in a normal positional relationship, with the maxilla positioned anteriorly and the mandible positioned posteriorly, thus not conforming to the characteristic symptoms of mandibular protrusion."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_upper_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有牙列间隙的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙列间隙错合指的是在牙齿间存在明显的空隙，而该影像显示下颌牙列的牙齿排列紧密，无明显间隙。牙齿排列整齐，咬合关系正常，因此无牙列间隙的错合问题迹象。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an open bite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nOpen bite refers to the inability of the upper and lower teeth to occlude properly. According to the imaging results, the patient's upper and lower teeth occlude normally, with no significant gaps or misalignment, which aligns with normal occlusal characteristics. Therefore, there is no open bite issue."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1137_Calculus",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙结石疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙结石是牙齿上形成的硬质矿物沉积物，一般呈现为黄色或棕色，常见于牙龈边缘附近。影像显示牙齿表面光滑，未见明显的结石沉积，因此未患有牙结石疾病。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, assess whether the patient has mandibular retrognathism."
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMandibular retrognathism refers to the position of the mandible being shifted backward relative to the maxilla, which can lead to an imbalance in the proportions of the middle and lower face. On imaging, this is manifested as a decrease in the degree of mandibular protrusion. According to imaging observations, the ratio relationship between the mandible and maxilla in the patient is normal, with no significant backward shift, thus indicating no abnormality of mandibular retrognathism."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_965_Periodontal Disease",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether a patient has periodontal disease through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nThe symptoms related to periodontal disease include red and swollen gums, widening of the gaps between teeth, gum recession, and tooth mobility. In this image, signs of redness and swelling of the gums can be seen in the anterior region of the upper dentition, accompanied by gum recession. Combined with the noticeable pigmentation and calculus in the anterior region, this may further exacerbate the periodontal disease. Therefore, the patient may have periodontal disease issues."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Analyze the images to determine the patient's skeletal classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Skeletal Class II\nSkeletal Class II typically presents as the position of the mandible being retruded relative to the maxilla or the maxilla being protruded. Imaging may show significant overlap of the upper anterior teeth, with the mandible appearing slightly retruded, consistent with Class II characteristics."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_upper_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a malocclusion issue with dental spacing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nDental spacing malocclusion refers to the presence of obvious gaps between the teeth, while this image shows that the lower dental arch has tightly arranged teeth with no significant gaps. The teeth are neatly aligned, and the occlusal relationship is normal, indicating no signs of dental spacing malocclusion issues."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n后牙反合是指上牙列的后牙咬在下牙列的内侧。在这张影像中可看到上牙列的后牙正常地覆盖在下牙列的外侧缘，未出现后牙反合的特征，因此判断没有后牙反合的问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有下颌后缩的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n下颌后缩是指下颌骨相对于上颌骨较后的位置。影像中可以观察到下颌骨的相对后缩位置与后牙关系不协调，可能存在II类错颌的特征，结合影像中的骨骼关系和咬合状态，可以判断为下颌后缩。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_left_Angle's Classification",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please determine which type of Angle's classification the patient belongs to."
+            },
+            {
+                "from": "gpt",
+                "value": "Angle Class II\nAngle's Class II malocclusion typically presents as the mandible being positioned posteriorly relative to the maxilla, resulting in excessive overbite where the upper anterior teeth excessively cover the lower anterior teeth. Imaging may reveal that the upper anterior teeth are significantly protruded, while the lower anterior teeth are relatively retruded, consistent with the characteristics of Angle's Class II."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2977_Fillings",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有填充物疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n填充物疾病通常表现为牙齿填充异常、二次龋坏或填充物周围牙体结构损伤。根据影像中，上下牙列的右侧后牙区及上牙列的左侧后牙区存在异常填充物的迹象。这些区域可能显示填充物边缘不完整或者邻近牙体结构的损害，符合填充物疾病的诊断标准。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，评估患者是否有下颌后缩的异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n下颌后缩是指下颌骨位置相对于上颌骨向后偏移，可导致面部中下部比例失调。影像上表现为下颌前突度减小。根据影像观测，患者下颌与上颌的比例关系正常，无明显向后偏移，故无下颌后缩异常。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1068_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm whether there is tooth wear disease."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nTooth wear refers to the loss of dental hard tissue due to non-caries factors. Imaging shows significant wear on the surface of the teeth and enamel consumption in the anterior region of the upper dentition, which is consistent with the common symptoms of tooth wear. The description of the affected area aligns with the characteristics of tooth wear disease."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a maxillary protrusion malocclusion issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMaxillary protrusion refers to the excessive forward growth of the maxilla and its associated structures, resulting in protrusion of the anterior teeth and facial deformity. Imaging observations show that the patient's maxilla is positioned normally relative to the basal bone, the anterior teeth are aligned properly, and there is no significant forward protrusion. Additionally, the occlusal relationship is good, with no signs of any sagittal plane discrepancies. Therefore, the imaging does not show any symptoms related to maxillary protrusion."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, assess whether the patient has an anterior crossbite anomaly?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nAnterior crossbite, also known as reverse occlusion, refers to the condition where the upper front teeth are positioned behind the lower front teeth during occlusion. In the imaging, the upper front teeth are located in front of the lower front teeth, with no signs of anterior crossbite, indicating a normal incisor relationship. Therefore, it can be concluded that there is no abnormality of anterior crossbite."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2109_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has root canal filling?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nRoot canal filling typically appears as a high-density filling material along the root canal path in imaging. In this image, such high-density imaging is not observed, so it is concluded that the patient does not have a root canal filling."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5032_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别是否有根尖周炎的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n根尖周炎通常表现为根尖区域的透影增加或骨质破坏。在这张影像中，没有明显的根尖透影改变或骨质异常，显示健康的根尖周围结构。因此，可以排除根尖周炎的存在。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_392_Implant",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在种植体？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n图像显示患者牙列完整，没有明显的种植体形态存在。种植体通常在影像中表现为明显的金属结构，而此处未见到这种特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_336_Fillings",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have fillings?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nThe imaging shows an irregular high-density shadow in the left posterior region of the lower dentition, which may be dental fillings. Typically, fillings appear denser than teeth on X-rays and have an irregular shape, making them distinctly different from natural tooth structure. Considering the specified lesion area, this situation is consistent with the presence of fillings."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have maxillary hypoplasia?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMaxillary hypoplasia often leads to a concave midface and an imbalance in the jaw relationship. In this lateral cephalometric image, the facial structures appear normal, and the occlusal relationship of the teeth is normal, with no significant midface concavity or maxillary retrusion observed. Therefore, it is concluded that maxillary hypoplasia is not present."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_570_Demineralization",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is a demineralization disease present?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDemineralization is typically manifested as chalky white spots on the surface of the teeth, indicating a loss of minerals. In the images, similar discoloration and irregularity can be observed in the right posterior region of the upper dentition and the anterior region of the upper dentition, which are all typical symptoms of demineralization. Based on the findings in the images, the presence of a demineralization issue is confirmed."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_left_Types of Malocclusion",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Types of malocclusion in diagnostic imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "posterior crossbite\nPosterior crossbite refers to the reverse occlusion of the posterior teeth. In the image, the maxillary posterior teeth occlude on the inner side of the mandibular posterior teeth, which is characteristic of posterior crossbite. This condition may lead to impaired chewing function and requires further dental examination to determine the treatment plan."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on imaging analysis, what is the patient's skeletal classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Skeletal Class II\nSkeletal Class II typically presents as mandibular retrognathism or maxillary protrusion. In imaging, the relative relationship between the maxilla and mandible can be observed, as well as the angular relationship between the upper and lower jaws and the cranial base, indicating that the mandible is relatively retrognathic, which is consistent with the characteristics of skeletal Class II."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5032_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there apical periodontitis in the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nApical periodontitis typically presents as increased radiolucency or bone destruction in the apical region. In this image, there are no obvious changes in apical radiolucency or bone abnormalities, indicating healthy periapical structures. Therefore, the presence of apical periodontitis can be ruled out."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3483_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在根管填充？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n根管填充指的是用于治疗牙齿根管感染或损伤时的一种治疗方法。影像中没有显示典型的根管充填物（如牙胶尖）的存在，牙根部位并没有明显的放射不透性材料，因此可以判断患者不存在根管填充。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have mandibular protrusion based on image recognition?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMandibular protrusion refers to the condition where the mandible is positioned forward relative to the maxilla. Related symptoms include an overly prominent mandible and misalignment of the teeth. In imaging, the relative position of the mandible and maxilla, as well as the occlusion, is observed. The absence of significant features indicative of mandibular protrusion suggests that the patient does not have this condition."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，评估患者是否有前牙反合的异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n前牙反合，又称反牙合，指的是上下牙齿在咬合时上前牙在下前牙的后方。在影像中，上前牙位于下前牙的前方，没有出现反合现象，显示正常的切牙关系，因此可以判断无前牙反合的异常。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_front_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>What is the patient's midline performance?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal\nMidline deviation is commonly seen in dental malocclusion or asymmetry of the jaw. The image shows misalignment of the midlines of the upper and lower dental arches, indicating a significant deviation and suggesting an abnormality in the dental midline."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_392_Implant",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an implant?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe image shows that the patient's dental arch is complete, with no obvious presence of implant morphology. Implants typically appear as distinct metallic structures in imaging, but such features are not observed here."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_788_Soft Deposit",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有软垢问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n软垢是由食物残渣、细菌和唾液组成的一种白色、黏性沉积。影像显示牙齿表面和齿间区域清晰，不存在明显的白色黏性沉积物，因此没有软垢问题。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5065_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have apical periodontitis abnormalities?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nApical periodontitis typically presents as resorption or indistinctness of the bone around the tooth root apex. In this image, there is no obvious resorption or abnormal changes in the bone surrounding the tooth root apex, and it appears clear. There are no typical signs of apical periodontitis; therefore, the judgment is negative."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_169_Demineralization",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有脱钙疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n脱钙是一种常见的牙齿病变，表现为牙齿表面出现白垩色斑块或颜色变化。结合影像，可以观察到上下牙列的前牙区有明显的颜色变化，呈现出乳白色斑块，这是脱钙的典型症状。这些症状符合脱钙疾病的表现。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的面型？"
+            },
+            {
+                "from": "gpt",
+                "value": "下颌后缩\n下颌后缩是一种常见的牙颌面畸形，表现为下颌骨相对位置偏后。影像中可以观察到下巴位置相较于上颌骨存在后缩，这种情况通常伴随着前牙凸出或深覆合等症状。通过分析患者的侧面X光片，可以确认下颌骨位置与面型不对称，符合下颌后缩的特征。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_front_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者的中线表现是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常\n中线偏移常见于牙列不齐或颌骨不对称。图中可见上下牙弓的中线不对齐，显示出明显的偏移，提示存在牙列中线的异常。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_3483_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have a root canal filling?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nRoot canal filling refers to a treatment method used for infections or damage to the tooth's root canal. The images do not show the presence of typical root canal filling materials (such as gutta-percha), and there is no obvious radiopaque material at the root area, so it can be concluded that the patient does not have a root canal filling."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_front_Deep Overbite",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a deep overbite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nDeep overbite refers to the condition where the upper anterior teeth cover the lower anterior teeth by more than 2-3 millimeters, or the incisal edges of the lower anterior teeth contact the middle or higher part of the lingual surface of the upper anterior teeth. In the imaging, the degree of coverage of the lower anterior teeth by the upper anterior teeth in the patient is within the normal range, and there are no obvious characteristics of deep overbite."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_left_275_Soft Deposit",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have soft deposits?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nDeposits are soft, white substances that form on the surface of teeth and are usually easy to remove with a toothbrush. From the imaging, the surface of the teeth appears relatively clean, with no obvious signs of soft, white deposits, thus indicating that deposits are not present."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请问患者是否存在上颌发育不足的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n上颌发育不足通常表现为面中部凹陷，上颌前牙反合。影像中患者面中部平整，牙齿排列正常，没有显著的上颌后缩迹象，因此没有上颌发育不足的迹象。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_front_1394_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有楔状缺损问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n楔状缺损通常出现在牙齿颈部位置，表现为V型缺损。从影像中观察，该区域未见明显的V型缺损或凹陷，牙齿表面形态较为完整，因此不具备楔状缺损的特征。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2869_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在连接桥？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n连接桥通常是牙齿缺失后通过桥体连接两侧健康牙齿来替代缺失牙齿的修复装置。通过影像分析，可以看出患者的牙齿排列整齐，并且没有安装连接桥的痕迹。此外，没有出现由于缺失牙齿导致的间隙或支撑桥体的明显迹象，因此判断不存在连接桥。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a malocclusion problem due to maxillary hypoplasia?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nMaxillary hypoplasia typically presents as a concave midface and anterior dental crossbite. In the imaging, the patient's midface appears flat, the dental alignment is normal, and there are no significant signs of maxillary retrusion; therefore, there are no indications of maxillary hypoplasia."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's sagittal relationship based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal\nThe imaging shows that the mandibular anterior teeth cover a portion of the maxillary anterior teeth, which is a sign of Class III malocclusion and may lead to sagittal relationship abnormalities. Additionally, the relationship between the upper and lower molars may also be affected, which often requires orthodontic treatment for correction in clinical practice."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4185_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm whether there is a prosthetic bridge disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nProsthetic bridge disease is often manifested as lesions or abnormalities in the connecting part of the dental bridge. In the imaging, it is necessary to observe the shape, density, and regularity of the edges of the bridge body, as well as any signs of absorption or lesions in the surrounding bone tissue. In this imaging, no obvious abnormalities or signs of disease were observed, thus confirming the absence of prosthetic bridge disease."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5065_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像判断，患者是否有根尖周炎异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n根尖周炎通常表现为牙根尖周围骨质的吸收或模糊不清。在这张影像中，牙齿根尖周围骨质未见明显吸收或异常改变，显示清晰。没有根尖周炎的典型征象，因此判断为否。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4414_Caries",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在龋坏的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n龋坏通常表现为牙齿实质的脱矿和缺损。结合影像，上牙列的右侧后牙区显示出可能的龋坏，可能存在不规则的牙釉质和牙本质影像变化，符合龋坏的特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_3329_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an impacted tooth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nAn impacted tooth refers to a tooth that is partially or completely embedded in the bone tissue and cannot erupt normally, commonly seen in the area of the wisdom teeth. According to the imaging, there is an abnormality in the right posterior region of the upper dentition, which may indicate a horizontally or tilted impacted tooth, consistent with the characteristics of an impacted tooth. The imaging shows that the tooth in this area has failed to erupt normally and exhibits positional abnormalities, aligning with the features of an impacted tooth."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_left_Angle's Classification",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, identify the patient's Angle's classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Angle Class II\nAngle's Class II malocclusion is characterized by the mandible being positioned posteriorly relative to the maxilla, typically presenting as deep overbite or deep coverage. From imaging, the relationship between the upper and lower first molars can be observed as abnormal, with the lower teeth being retroclined, which aligns with the characteristics of Angle's Class II."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请问患者是否存在前牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n前牙反合（俗称地包天）是指下前牙位于上前牙的唇侧，从影像观察到患者的上前牙覆盖下前牙，未见下前牙在上前牙的唇侧，因此不存在前牙反合的错合问题。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an open bite malocclusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe patient's teeth show normal occlusion in the images, with no significant anterior-posterior gap. The images reveal good occlusion between the upper and lower dental arches, with no signs of improper contact or open bite, which are typical characteristics of an open bite malocclusion. Therefore, the patient does not have an open bite malocclusion issue."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1022_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there any oral disease related to residual crowns identified in the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nA residual crown refers to a situation where a large part of the crown of a tooth is missing, but the root still exists. The imaging shows that the tooth morphology is intact, with no significant large-area defects or root exposure observed, thus no symptoms of a residual crown have been found."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_left_Deep Overjet",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have deep overjet?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDeep overjet refers to the upper anterior teeth excessively covering the lower anterior teeth. Combined with imaging, it can be observed that the degree of coverage of the upper anterior teeth over the lower anterior teeth is greater than the normal range, presenting as deep overjet."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1971_Residual Root",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在残根的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n残根是指牙齿脱落后留下的牙根，通常会在根尖区出现密度不均或不完整的影像特征。本影像清晰列出每颗牙齿的位置和根部，未见明显异常或残根的迹象。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_left_Angle's Classification",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，识别患者的安氏分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "安氏II类\n安氏II类错颌畸形表现为下颌相对于上颌位置后退，通常表现为深覆合或深覆盖。从影像中可以观察到上下颌第一磨牙的关系不正常，下颌牙齿后倾，符合安氏II类的特点。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images and confirm whether there is a malocclusion issue of mandibular retrognathism?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nMandibular retrognathism refers to the position of the mandible being relatively posterior to the maxilla. Imaging can reveal the relative posterior position of the mandible and the lack of coordination with the posterior teeth, which may exhibit characteristics of Class II malocclusion. By combining the skeletal relationships and occlusal status observed in the imaging, it can be determined as mandibular retrognathism."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2869_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has a prosthetic bridge?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nA prosthetic bridge is a restorative device that replaces missing teeth by connecting healthy teeth on either side of the gap. Through imaging analysis, it can be observed that the patient's teeth are well-aligned and there are no signs of a prosthetic bridge being installed. Additionally, there are no gaps or obvious indications of support for a prosthetic bridge due to missing teeth, thus concluding that no prosthetic bridge is present."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_upper_Dental Crowding",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have dental crowding?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nCrowding is caused by insufficient space for the teeth to align properly in the jawbone. Based on imaging, irregular alignment of the mandibular teeth can be observed, with overlapping teeth, indicating the presence of crowding."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_left_Deep Overjet",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在深覆盖？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n深覆盖是指上前牙覆盖下前牙过多。结合影像，可以观察到上前牙覆盖下前牙的程度较大，超过正常范围，表现为深覆盖。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1296_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有残冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n残冠通常表现为牙齿结构的显著破坏，仅遗留部分牙冠。影像显示，所有牙齿的冠部结构完整，未见明显的牙冠残缺或结构破坏，故判断未患有残冠。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_570_Demineralization",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在脱钙的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n脱钙通常表现为牙齿表面出现白垩色斑块，表明矿物质流失。在影像中的上牙列右侧后牙区和上牙列前牙区可以观察到类似的色变和不均匀性，这些都是脱钙的典型症状。结合影像中的表现，确认存在脱钙的问题。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1971_Residual Root",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the imaging to determine if there is a disease related to residual roots?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nResidual roots refer to the roots of teeth that remain after the teeth have fallen out, typically showing uneven or incomplete imaging features in the apical region. The image clearly outlines the position and roots of each tooth, with no obvious signs of abnormalities or residual roots."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析患者的骨性分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "骨性II类\n骨性II类通常表现为下颌后缩或上颌前突。在影像中，可以观察到上颌骨与下颌骨的相对关系，以及上下颌骨与颅底的角度关系，提示下颌骨相对后缩，符合骨性II类的特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5156_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have a prosthetic crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nThe prosthetic crown is typically used to restore the function and appearance of a tooth. According to the imaging analysis, the right posterior region of the lower dentition shows a significant difference in crown morphology compared to other natural teeth, which may be made of metal or ceramic materials, indicating the presence of a crown."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lower_Dental Crowding",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has dental crowding issues from the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nCrowding refers to the misalignment of teeth, resulting in insufficient space. The images show that the teeth in both jaws are crowded, with a small gap between the molars and incisors, and some teeth exhibit rotation and misalignment. These features are common manifestations of dental crowding."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5156_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在修复冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n修复冠通常用于恢复牙齿的功能和外观。根据影像分析，下牙列的右侧后牙区显示有明显的牙冠形态与其他天然牙不同，可能为金属或陶瓷材料制成，表明存在修复冠。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2109_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在根管填充？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n根管填充通常在影像中显示为高密度的填充材料沿根管路径出现。在这张影像中，未见到这样的高密度影像，因此判断患者不存在根管填充。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have dental protrusion through image recognition?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nDental protrusion refers to the upper anterior teeth being excessively protruded, usually manifested as the forward movement of the maxilla or abnormal positioning of the teeth. Imaging shows that the maxillary anterior teeth are in a normal position relative to facial proportions, the relationship between the upper and lower jaws is normal, and there are no obvious signs of protrusion, thus concluding that there is no dental protrusion issue."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4414_Caries",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is the presence of caries."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nCaries typically present as demineralization and loss of dental substance. Combined with imaging, the right posterior region of the upper dentition shows possible caries, with irregularities in the enamel and dentin imaging changes, consistent with the characteristics of caries."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_left_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙锁合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n后牙锁合问题通常表现为上下牙列后方牙齿的错位和咬合不佳。从影像中观察到后牙区域，上下牙齿的接触关系正常，没有出现典型的后牙错合症状，例如牙齿交叉或不对称咬合，因此判断不存在后牙锁合问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1119_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在牙磨损的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙齿的磨损指牙齿因物理磨蚀而损耗。通过影像观察，该样本中牙齿表面无明显不正常的磨耗痕迹或牙本质暴露，周围牙龈组织健康，未见明显疾病特征。因此，判断无牙磨损的疾病。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n后牙反合指的是上下后牙咬合时，下牙置于上牙的外侧。在影像中，可以看到上牙在正常位置，覆盖下牙，后牙咬合关系正常，没有出现反合迹象。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者的矢状关系表现是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常\n矢状关系指上下颌牙列咬合的前后关系。该影像显示下颌存在一定的后退或前伸情况，可能导致咬合错位。这种不对齐的现象称为异常。可以观察到牙齿的排列情况和咬合接触点，这在影像中表现为上下牙弓间的错位，与矢状关系异常一致。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的矢状关系？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常\n影像显示下颌前牙覆盖上颌前牙的一部分，这是反牙合（Class III 错颌）的一个标志，可能导致矢状关系异常。此外，上下颌磨牙之间的关系也可能受到影响，这在临床上往往需要正畸治疗来矫正。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Types of Malocclusion",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Analyze the image and list the patient's types of malocclusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "deep overbite,deep overjet\nDeep overbite and deep overjet are common types of malocclusion. Deep overbite refers to the upper anterior teeth covering the lower anterior teeth beyond the normal range, as can be seen in the image where the coverage of the upper and lower anterior teeth is quite deep. Deep overjet indicates excessive anterior-posterior overlap between the upper and lower dental arches, with the upper anterior teeth clearly protruding in front of the lower anterior teeth in the image. These issues can affect both aesthetics and oral function."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's facial profile based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "mandibular retrognathism\nMandibular retrognathism is a common dental and facial deformity characterized by the relative position of the mandible being positioned posteriorly. Imaging can reveal that the position of the chin is retruded compared to the maxilla, and this condition is often accompanied by symptoms such as protruded anterior teeth or deep overbite. By analyzing the patient's lateral X-ray, it can be confirmed that the position of the mandible is asymmetrical with the facial profile, consistent with the characteristics of mandibular retrognathism."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_front_Deep Overbite",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在深覆合？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n深覆合是指上前牙覆盖下前牙超过2-3毫米或下前牙的切端接触上前牙的舌面中部或更高。在影像中，患者的上前牙覆盖下前牙的程度在正常范围内，没有明显的深覆合特征。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_front_Deep Overbite",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a deep overbite issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDeep overbite refers to the excessive coverage of the lower anterior teeth by the upper anterior teeth, exceeding the normal range. In imaging, it can be observed that the upper anterior teeth significantly cover a larger area of the lower anterior teeth, which is a characteristic manifestation of deep overbite."
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a posterior crossbite issue with the molars?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nPosterior crossbite refers to the condition where the upper posterior teeth bite on the inside of the lower posterior teeth. In this image, it can be observed that the upper posterior teeth are normally covering the outer edge of the lower teeth, and there are no characteristics indicating posterior crossbite. Therefore, it is determined that there is no issue of posterior crossbite."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_401_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有楔状缺损？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n楔状缺损通常表现为牙齿颈部的楔形凹陷，主要影响牙齿颊侧或舌侧表面。影像中可以看到牙齿表面光滑，没有明显的凹陷或缺损，从而排除楔状缺损的存在。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Deep Overjet",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has deep overjet from the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDeep overjet refers to the upper anterior teeth significantly covering the lower anterior teeth. In the imaging, it is observed that the upper anterior teeth cover a large portion of the lower anterior teeth, which is consistent with the manifestation of deep overjet."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1296_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a residual crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nResidual crowns typically present as significant destruction of the tooth structure, with only a portion of the crown remaining. Imaging shows that the crown structures of all teeth are intact, with no obvious crown defects or structural damage observed, thus concluding that there is no residual crown present."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2666_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在阻生牙？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n阻生牙是指牙齿在萌出过程中受到阻碍，通常是因为空间不足导致无法正常萌出。这张影像显示患者下牙列的右侧后牙区，以及上、下牙列的左侧后牙区存在疑似阻生的位置，符合阻生牙的特征，表明该区域可能有智齿或其他牙齿无法完全萌出的问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_right_Deep Overjet",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有深覆盖的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n深覆盖是指上前牙明显覆盖下前牙。在影像中，看到上前牙覆盖了较大部分的下前牙，符合深覆盖的表现。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2089_Residual Root",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have any oral diseases related to residual roots?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nResidual roots refer to the condition where the root portion of a tooth remains in the gums due to caries or other reasons. Typically, this is manifested in X-ray images as the disappearance of the crown of the tooth, leaving only the root. This image shows that all tooth structures are intact, with no residual root phenomenon."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_453_Caries",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have caries?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nCaries typically present as black or brown holes or discolored areas on the teeth. From the imaging analysis, there are no obvious signs of caries, and the surface of the teeth shows no significant color changes or signs of erosion."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_169_Demineralization",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a demineralization disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nDemineralization is a common dental condition characterized by the appearance of chalky white spots or color changes on the surface of the teeth. Combined with imaging, noticeable color changes can be observed in the anterior region of both the upper and lower dentition, presenting as milky white spots, which are typical symptoms of demineralization. These symptoms are consistent with the manifestations of demineralization disease."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have insufficient space for the eruption of primary teeth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes\nInsufficient space for the eruption of primary teeth typically manifests as dental crowding or misalignment, which may affect the normal eruption of permanent teeth. Based on imaging and the specified lesion area, the anterior region of the upper dentition shows tight dental arrangement, indicating a possible lack of space. This aligns with the symptoms of insufficient space for the eruption of primary teeth."
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_614_Periodontal Disease",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if periodontal disease is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe related symptoms of periodontal disease include gum bleeding, redness, the formation of periodontal pockets, and tooth mobility. From the imaging observation, the gum color is normal, there is no significant swelling, the teeth are neatly arranged, and there are no notable periodontal pockets or signs of mobility. Therefore, the judgment does not support the existence of periodontal disease."
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lower_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有牙列间隙的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n牙列间隙错合问题通常表现为牙齿之间存在过多或过少的空间。在影像中观察到牙齿排列紧密，牙齿间没有明显的间隙，且咬合关系正常，因此不存在牙列间隙的错合问题。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像识别，患者是否患有下颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n下颌前突是指下颌骨相对于上颌骨向前突出。相关症状包括下颌过于突出、牙齿咬合不齐。在影像中，观察下颌骨和上颌骨的相对位置及咬合情况，未见明显的下颌前突特征，说明患者没有患有下颌前突。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1068_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙磨损疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是\n牙磨损是指牙齿因非龋性因素失去牙体硬组织。影像显示上牙列的前牙区有明显的牙齿表面磨损和牙釉质消耗，与牙磨损的常见症状一致。结合病变区域的描述，符合牙磨损疾病的特征。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在开合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n患者的牙齿在影像中显示正常闭合，没有明显的前后开口间隙。影像中可见上下牙列咬合良好，没有出现上下牙齿接触不良或开合不全的迹象，这些都是开合错合的典型特点。因此，患者不具备开合的错合问题。"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_788_Soft Deposit",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether the patient has a soft deposit problem through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nThe deposit is a white, sticky accumulation composed of food residues, bacteria, and saliva. The images show clear surfaces of the teeth and interproximal areas, with no obvious white sticky deposits present, indicating that there is no deposit issue."
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1022_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别是否有残冠的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n残冠是指牙齿冠部大部分缺失，但根部仍存在的情况。影像中显示牙齿形态完整，未见明显的牙齿大面积缺损或根部暴露，因此未发现有残冠的症状。"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在上颌发育不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n上颌发育不足常导致面中部凹陷、颌骨关系不协调。在这张侧位头影像中，观察到面部结构正常，牙齿的咬合关系正常，没有出现明显的面中部凹陷或上颌骨后缩现象，因此判断不存在上颌发育不足。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4185_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有连接桥疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n连接桥疾病常表现为牙齿桥连结部分的病变或病损。影像中需要观察桥体部分的形状、密度和边缘是否规则以及周围骨组织是否有吸收或病变的迹象。在此影像中，未见明显异常或疾病迹象，因此确认不存在连接桥疾病。"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5109_Implant",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像判断，患者是否有种植体异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否\n种植体异常通常表现为种植体周围的骨吸收、松动或损坏等。影像显示骨质和种植体周围组织完整，未见明显异常。"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an anterior crossbite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No\nAnterior crossbite (commonly known as \"reverse bite\") refers to the condition where the lower anterior teeth are positioned on the labial side of the upper anterior teeth. From the imaging observation, it can be seen that the upper anterior teeth cover the lower anterior teeth, and the lower anterior teeth are not positioned on the labial side of the upper anterior teeth. Therefore, there is no issue of anterior crossbite."
+            }
+        ]
+    }
+]

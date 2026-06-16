@@ -1,0 +1,1180 @@
+[
+    {
+        "id": "zh_dis_front_522_Calculus",
+        "question": "评估影像，确认是否患有牙结石疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_right_Posterior Scissor Bite",
+        "question": "从影像中识别患者是否患有后牙锁合的问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_right_Types of Malocclusion",
+        "question": "分析图像，列出患者的错合问题？",
+        "gt_ans": "深覆合,深覆盖",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_front_1394_Wedge-shaped Defect",
+        "question": "Whether the patient has a wedge-shaped defect problem through imaging?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5109_Implant",
+        "question": "Based on the imaging, does the patient have any abnormalities with the implant?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3505_right_Posterior Scissor Bite",
+        "question": "Whether a patient has a posterior scissor bite from imaging?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4019_Prosthetic Crown",
+        "question": "请确认患者是否患有修复冠？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "area": "上牙列的前牙区\t下牙列的左侧后牙区"
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Open Bite",
+        "question": "请判断患者是否存在开合？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3329_Impacted Tooth",
+        "question": "根据影像，判断患者是否存在阻生牙？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "area": "上牙列的右侧后牙区"
+    },
+    {
+        "id": "en_mal_item3505_lateral_Dental Protrusion",
+        "question": "Identify from the images whether the patient has dental protrusion.",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4019_Prosthetic Crown",
+        "question": "Please confirm whether the patient has a prosthetic crown?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "area": "the anterior region of the upper dentition\tthe left posterior region of the lower dentition"
+    },
+    {
+        "id": "en_dis_front_522_Calculus",
+        "question": "Evaluate the images to confirm if there is a calculus disease?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_401_Wedge-shaped Defect",
+        "question": "Please confirm whether the patient has a wedge-shaped defect?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_left_Types of Malocclusion",
+        "question": "诊断影像中的错合类型？",
+        "gt_ans": "后牙反合",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Protrusion",
+        "question": "患者是否存在上颌前突的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_left_275_Soft Deposit",
+        "question": "根据影像分析，患者是否存在软垢？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_lateral_Skeletal Classification",
+        "question": "分析影像，确定患者的骨性分类？",
+        "gt_ans": "骨性II类",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_panoramic_Midline Deviation",
+        "question": "Evaluate the imaging and describe the patient's midline performance?",
+        "gt_ans": "Abnormal",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_upper_Dental Crowding",
+        "question": "请判断患者是否存在拥挤？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_453_Caries",
+        "question": "根据影像分析，患者是否存在龋坏？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lower_Dental Crowding",
+        "question": "从影像中识别患者是否患有拥挤的问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lower_Dental Spacing",
+        "question": "Check the images and confirm if there are any malocclusion issues related to dental spacing?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_panoramic_Midline Deviation",
+        "question": "评估影像，描述患者的中线表现？",
+        "gt_ans": "异常",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_965_Periodontal Disease",
+        "question": "通过影像评估患者是否有牙周病问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "area": "上牙列的前牙区"
+    },
+    {
+        "id": "zh_dis_right_614_Periodontal Disease",
+        "question": "检查影像，判断是否存在牙周病的疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Facial Profile",
+        "question": "Please assess the patient's facial profile based on imaging?",
+        "gt_ans": "maxillary protrusion，mandibular retrognathism",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Dental Protrusion",
+        "question": "从影像中识别患者是否患有牙前突的问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Facial Profile",
+        "question": "根据影像评估患者的面型？",
+        "gt_ans": "上颌前突，下颌后缩",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Maxillary Protrusion",
+        "question": "请判断患者是否存在上颌前突？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Maxillary Protrusion",
+        "question": "Does the patient have maxillary protrusion?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_left_Angle's Classification",
+        "question": "请判断患者属于哪种安氏分类？",
+        "gt_ans": "安氏II类",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "question": "请确认患者是否患有乳牙萌出空间不足？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "area": "上牙列的前牙区"
+    },
+    {
+        "id": "en_dis_upper_1137_Calculus",
+        "question": "Evaluate the images to confirm if there is calculus disease?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "question": "根据影像，判断患者是否存在乳牙萌出空间不足？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "area": "上牙列的前牙区"
+    },
+    {
+        "id": "zh_mal_item2982_lateral_Dental Protrusion",
+        "question": "通过影像识别，患者是否患有牙前突？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3564_left_Posterior Scissor Bite",
+        "question": "Check the images and confirm if there is a posterior scissor bite issue?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_upper_1119_Tooth Wear",
+        "question": "Examine the images to determine if there is a disease of tooth wear.",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2089_Residual Root",
+        "question": "患者是否存在残根的口腔疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Sagittal Relationship",
+        "question": "What are the manifestations of the sagittal relationship in patients?",
+        "gt_ans": "Abnormal",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "question": "Does the patient have insufficient space for the eruption of primary teeth?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "area": "the anterior region of the upper dentition"
+    },
+    {
+        "id": "en_dis_panoramic_2666_Impacted Tooth",
+        "question": "Based on the imaging, determine whether the patient has an impacted tooth?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "area": "the right posterior region of the lower dentition\tthe left posterior region of both the upper and lower dentition"
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Mandibular Protrusion",
+        "question": "根据影像评估患者是否存在下颌前突？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2977_Fillings",
+        "question": "Evaluate the images to confirm if there is a filling disease?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "area": "the right posterior region of both the upper and lower dentition\tthe left posterior region of the upper dentition"
+    },
+    {
+        "id": "zh_dis_panoramic_336_Fillings",
+        "question": "根据影像分析，患者是否存在填充物？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "area": "下牙列的左侧后牙区"
+    },
+    {
+        "id": "en_mal_item3564_right_Posterior Crossbite",
+        "question": "Check the imaging and confirm if there is a posterior crossbite issue with the molars?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_front_Deep Overbite",
+        "question": "患者是否存在深覆合的错合问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Mandibular Protrusion",
+        "question": "Is there mandibular protrusion based on the imaging assessment?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_upper_Dental Spacing",
+        "question": "检查影像并确认是否有牙列间隙的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Open Bite",
+        "question": "Does the patient have an open bite?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1137_Calculus",
+        "question": "评估影像，确认是否患有牙结石疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Mandibular Retrognathism",
+        "question": "Based on the imaging, assess whether the patient has mandibular retrognathism.",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_965_Periodontal Disease",
+        "question": "Whether a patient has periodontal disease through imaging?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "area": "the anterior region of the upper dentition"
+    },
+    {
+        "id": "en_mal_item2373_lateral_Skeletal Classification",
+        "question": "Analyze the images to determine the patient's skeletal classification?",
+        "gt_ans": "Skeletal Class II",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2519_upper_Dental Spacing",
+        "question": "Check the images and confirm if there is a malocclusion issue with dental spacing?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_right_Posterior Crossbite",
+        "question": "检查影像并确认是否有后牙反合的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Mandibular Retrognathism",
+        "question": "检查影像并确认是否有下颌后缩的错合问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2373_left_Angle's Classification",
+        "question": "Please determine which type of Angle's classification the patient belongs to.",
+        "gt_ans": "Angle Class II",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2977_Fillings",
+        "question": "评估影像，确认是否患有填充物疾病？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "area": "上、下牙列的右侧后牙区\t上牙列的左侧后牙区"
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Mandibular Retrognathism",
+        "question": "根据影像，评估患者是否有下颌后缩的异常？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_upper_1068_Tooth Wear",
+        "question": "Evaluate the images to confirm whether there is tooth wear disease.",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "area": "the anterior region of the upper dentition"
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Protrusion",
+        "question": "Does the patient have a maxillary protrusion malocclusion issue?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Anterior Crossbite",
+        "question": "Based on the imaging, assess whether the patient has an anterior crossbite anomaly?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2109_Root Canal Therapy",
+        "question": "Based on the imaging, determine whether the patient has root canal filling?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5032_Apical Periodontitis",
+        "question": "从影像中识别是否有根尖周炎的口腔疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_392_Implant",
+        "question": "根据影像，判断患者是否存在种植体？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_336_Fillings",
+        "question": "Based on the imaging analysis, does the patient have fillings?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "area": "the left posterior region of the lower dentition"
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Hypoplasia",
+        "question": "Does the patient have maxillary hypoplasia?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_570_Demineralization",
+        "question": "Examine the images to determine if there is a demineralization disease present?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "area": "the right posterior region of the upper dentition\tthe anterior region of the upper dentition"
+    },
+    {
+        "id": "en_mal_item2982_left_Types of Malocclusion",
+        "question": "Types of malocclusion in diagnostic imaging?",
+        "gt_ans": "posterior crossbite",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3505_lateral_Skeletal Classification",
+        "question": "Based on imaging analysis, what is the patient's skeletal classification?",
+        "gt_ans": "Skeletal Class II",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5032_Apical Periodontitis",
+        "question": "Is there apical periodontitis in the images?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3483_Root Canal Therapy",
+        "question": "根据影像分析，患者是否存在根管填充？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Mandibular Protrusion",
+        "question": "Does the patient have mandibular protrusion based on image recognition?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Anterior Crossbite",
+        "question": "根据影像，评估患者是否有前牙反合的异常？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_front_Midline Deviation",
+        "question": "What is the patient's midline performance?",
+        "gt_ans": "Abnormal",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_392_Implant",
+        "question": "Based on the imaging, determine whether the patient has an implant?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_788_Soft Deposit",
+        "question": "通过影像评估患者是否有软垢问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5065_Apical Periodontitis",
+        "question": "Based on the imaging, does the patient have apical periodontitis abnormalities?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_169_Demineralization",
+        "question": "评估影像，确认是否患有脱钙疾病？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "area": "上、下牙列的前牙区"
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Facial Profile",
+        "question": "根据影像评估患者的面型？",
+        "gt_ans": "下颌后缩",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_front_Midline Deviation",
+        "question": "患者的中线表现是什么？",
+        "gt_ans": "异常",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_3483_Root Canal Therapy",
+        "question": "Based on the imaging analysis, does the patient have a root canal filling?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2982_front_Deep Overbite",
+        "question": "Does the patient have a deep overbite?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_left_275_Soft Deposit",
+        "question": "Based on the imaging analysis, does the patient have soft deposits?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Maxillary Hypoplasia",
+        "question": "请问患者是否存在上颌发育不足的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_front_1394_Wedge-shaped Defect",
+        "question": "通过影像评估患者是否有楔状缺损问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2869_Prosthetic Bridge",
+        "question": "根据影像，判断患者是否存在连接桥？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Maxillary Hypoplasia",
+        "question": "Does the patient have a malocclusion problem due to maxillary hypoplasia?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2982_right_Sagittal Relationship",
+        "question": "Please assess the patient's sagittal relationship based on imaging?",
+        "gt_ans": "Abnormal",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4185_Prosthetic Bridge",
+        "question": "Evaluate the images to confirm whether there is a prosthetic bridge disease?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5065_Apical Periodontitis",
+        "question": "根据影像判断，患者是否有根尖周炎异常？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4414_Caries",
+        "question": "检查影像，判断是否存在龋坏的疾病？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "area": "上牙列的右侧后牙区"
+    },
+    {
+        "id": "en_dis_panoramic_3329_Impacted Tooth",
+        "question": "Based on the imaging, determine whether the patient has an impacted tooth?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "area": "the right posterior region of the upper dentition"
+    },
+    {
+        "id": "en_mal_item3564_left_Angle's Classification",
+        "question": "Based on the imaging, identify the patient's Angle's classification?",
+        "gt_ans": "Angle Class II",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Anterior Crossbite",
+        "question": "请问患者是否存在前牙反合的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Open Bite",
+        "question": "Does the patient have an open bite malocclusion?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1022_Residual Crown",
+        "question": "Is there any oral disease related to residual crowns identified in the images?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3505_left_Deep Overjet",
+        "question": "Does the patient have deep overjet?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1971_Residual Root",
+        "question": "检查影像，判断是否存在残根的疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_left_Angle's Classification",
+        "question": "根据影像，识别患者的安氏分类？",
+        "gt_ans": "安氏II类",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Mandibular Retrognathism",
+        "question": "Examine the images and confirm whether there is a malocclusion issue of mandibular retrognathism?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2869_Prosthetic Bridge",
+        "question": "Based on the imaging, determine whether the patient has a prosthetic bridge?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2373_upper_Dental Crowding",
+        "question": "Does the patient have dental crowding?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_left_Deep Overjet",
+        "question": "请判断患者是否存在深覆盖？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1296_Residual Crown",
+        "question": "请确认患者是否患有残冠？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_570_Demineralization",
+        "question": "检查影像，判断是否存在脱钙的疾病？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "area": "上牙列的右侧后牙区\t上牙列的前牙区"
+    },
+    {
+        "id": "en_dis_panoramic_1971_Residual Root",
+        "question": "Examine the imaging to determine if there is a disease related to residual roots?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Skeletal Classification",
+        "question": "根据影像分析患者的骨性分类？",
+        "gt_ans": "骨性II类",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5156_Prosthetic Crown",
+        "question": "Based on the imaging analysis, does the patient have a prosthetic crown?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "area": "the right posterior region of the lower dentition"
+    },
+    {
+        "id": "en_mal_item3564_lower_Dental Crowding",
+        "question": "Whether a patient has dental crowding issues from the images?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5156_Prosthetic Crown",
+        "question": "根据影像分析，患者是否存在修复冠？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "area": "下牙列的右侧后牙区"
+    },
+    {
+        "id": "zh_dis_panoramic_2109_Root Canal Therapy",
+        "question": "根据影像，判断患者是否存在根管填充？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item2982_lateral_Dental Protrusion",
+        "question": "Does the patient have dental protrusion through image recognition?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4414_Caries",
+        "question": "Examine the images to determine if there is the presence of caries.",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "area": "the right posterior region of the upper dentition"
+    },
+    {
+        "id": "zh_mal_item3564_left_Posterior Scissor Bite",
+        "question": "检查影像并确认是否有后牙锁合的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1119_Tooth Wear",
+        "question": "检查影像，判断是否存在牙磨损的疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Posterior Crossbite",
+        "question": "检查影像并确认是否有后牙反合的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Sagittal Relationship",
+        "question": "患者的矢状关系表现是什么？",
+        "gt_ans": "异常",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_right_Sagittal Relationship",
+        "question": "根据影像评估患者的矢状关系？",
+        "gt_ans": "异常",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Types of Malocclusion",
+        "question": "Analyze the image and list the patient's types of malocclusion?",
+        "gt_ans": "deep overbite,deep overjet",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Facial Profile",
+        "question": "How to assess the patient's facial profile based on imaging?",
+        "gt_ans": "mandibular retrognathism",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_front_Deep Overbite",
+        "question": "请判断患者是否存在深覆合？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3505_front_Deep Overbite",
+        "question": "Does the patient have a deep overbite issue?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1181_right_Posterior Crossbite",
+        "question": "Check the images and confirm if there is a posterior crossbite issue with the molars?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_right_401_Wedge-shaped Defect",
+        "question": "请确认患者是否患有楔状缺损？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Deep Overjet",
+        "question": "Whether a patient has deep overjet from the images?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1296_Residual Crown",
+        "question": "Please confirm whether the patient has a residual crown?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2666_Impacted Tooth",
+        "question": "根据影像，判断患者是否存在阻生牙？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "area": "下牙列的右侧后牙区\t上、下牙列的左侧后牙区"
+    },
+    {
+        "id": "zh_mal_item1811_right_Deep Overjet",
+        "question": "从影像中识别患者是否患有深覆盖的问题？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2089_Residual Root",
+        "question": "Does the patient have any oral diseases related to residual roots?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_453_Caries",
+        "question": "Based on the imaging analysis, does the patient have caries?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_169_Demineralization",
+        "question": "Evaluate the images to confirm if there is a demineralization disease?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "area": "the anterior region of both the upper and lower dentition"
+    },
+    {
+        "id": "en_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "question": "Based on the imaging, does the patient have insufficient space for the eruption of primary teeth?",
+        "gt_ans": "Yes",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "area": "the anterior region of the upper dentition"
+    },
+    {
+        "id": "en_dis_right_614_Periodontal Disease",
+        "question": "Examine the images to determine if periodontal disease is present?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lower_Dental Spacing",
+        "question": "检查影像并确认是否有牙列间隙的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Mandibular Protrusion",
+        "question": "通过影像识别，患者是否患有下颌前突？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1068_Tooth Wear",
+        "question": "评估影像，确认是否患有牙磨损疾病？",
+        "gt_ans": "是",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "area": "上牙列的前牙区"
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Open Bite",
+        "question": "患者是否存在开合的错合问题？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ]
+    },
+    {
+        "id": "en_dis_right_788_Soft Deposit",
+        "question": "Whether the patient has a soft deposit problem through imaging?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1022_Residual Crown",
+        "question": "从影像中识别是否有残冠的口腔疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Hypoplasia",
+        "question": "请判断患者是否存在上颌发育不足？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4185_Prosthetic Bridge",
+        "question": "评估影像，确认是否患有连接桥疾病？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5109_Implant",
+        "question": "根据影像判断，患者是否有种植体异常？",
+        "gt_ans": "否",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ]
+    },
+    {
+        "id": "en_mal_item3564_right_Anterior Crossbite",
+        "question": "Does the patient have an anterior crossbite?",
+        "gt_ans": "No",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ]
+    }
+]

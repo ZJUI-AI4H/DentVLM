@@ -1,0 +1,2306 @@
+[
+    {
+        "id": "zh_dis_front_522_Calculus",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙结石疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_right_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有后牙锁合的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_right_Types of Malocclusion",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>分析图像，列出患者的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "深覆合,深覆盖"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_front_1394_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether the patient has a wedge-shaped defect problem through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5109_Implant",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have any abnormalities with the implant?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_right_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3505/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has a posterior scissor bite from imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4019_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有修复冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在开合？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3329_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在阻生牙？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Identify from the images whether the patient has dental protrusion."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4019_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_4019.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a prosthetic crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_front_522_Calculus",
+        "images": [
+            "data/imgs/front_522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a calculus disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_401_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a wedge-shaped defect?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_left_Types of Malocclusion",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>诊断影像中的错合类型？"
+            },
+            {
+                "from": "gpt",
+                "value": "后牙反合"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在上颌前突的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_left_275_Soft Deposit",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在软垢？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>分析影像，确定患者的骨性分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "骨性II类"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_panoramic_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the imaging and describe the patient's midline performance?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_upper_Dental Crowding",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在拥挤？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_453_Caries",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在龋坏？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lower_Dental Crowding",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有拥挤的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lower_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there are any malocclusion issues related to dental spacing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_panoramic_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/panoramic.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，描述患者的中线表现？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_965_Periodontal Disease",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有牙周病问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_614_Periodontal Disease",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在牙周病的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's facial profile based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "maxillary protrusion，mandibular retrognathism"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有牙前突的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的面型？"
+            },
+            {
+                "from": "gpt",
+                "value": "上颌前突，下颌后缩"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在上颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have maxillary protrusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2373_left_Angle's Classification",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者属于哪种安氏分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "安氏II类"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有乳牙萌出空间不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1137_Calculus",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is calculus disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在乳牙萌出空间不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像识别，患者是否患有牙前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_left_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a posterior scissor bite issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1119_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is a disease of tooth wear."
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2089_Residual Root",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在残根的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>What are the manifestations of the sagittal relationship in patients?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2956_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2956.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have insufficient space for the eruption of primary teeth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2666_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an impacted tooth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者是否存在下颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2977_Fillings",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a filling disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_336_Fillings",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在填充物？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the imaging and confirm if there is a posterior crossbite issue with the molars?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_front_Deep Overbite",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在深覆合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there mandibular protrusion based on the imaging assessment?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_upper_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有牙列间隙的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an open bite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1137_Calculus",
+        "images": [
+            "data/imgs/upper_1137.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙结石疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, assess whether the patient has mandibular retrognathism."
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_965_Periodontal Disease",
+        "images": [
+            "data/imgs/right_965.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether a patient has periodontal disease through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item2373/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Analyze the images to determine the patient's skeletal classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Skeletal Class II"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_upper_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a malocclusion issue with dental spacing?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有下颌后缩的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_left_Angle's Classification",
+        "images": [
+            "data/imgs/item2373/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please determine which type of Angle's classification the patient belongs to."
+            },
+            {
+                "from": "gpt",
+                "value": "Angle Class II"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2977_Fillings",
+        "images": [
+            "data/imgs/panoramic_2977.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有填充物疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，评估患者是否有下颌后缩的异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_upper_1068_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm whether there is tooth wear disease."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Protrusion",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a maxillary protrusion malocclusion issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, assess whether the patient has an anterior crossbite anomaly?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2109_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has root canal filling?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5032_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别是否有根尖周炎的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_392_Implant",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在种植体？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_336_Fillings",
+        "images": [
+            "data/imgs/panoramic_336.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have fillings?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2519_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have maxillary hypoplasia?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_570_Demineralization",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is a demineralization disease present?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_left_Types of Malocclusion",
+        "images": [
+            "data/imgs/item2982/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Types of malocclusion in diagnostic imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "posterior crossbite"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on imaging analysis, what is the patient's skeletal classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Skeletal Class II"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5032_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5032.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there apical periodontitis in the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_3483_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在根管填充？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have mandibular protrusion based on image recognition?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，评估患者是否有前牙反合的异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_front_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>What is the patient's midline performance?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_392_Implant",
+        "images": [
+            "data/imgs/panoramic_392.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an implant?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_788_Soft Deposit",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有软垢问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5065_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have apical periodontitis abnormalities?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_169_Demineralization",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有脱钙疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的面型？"
+            },
+            {
+                "from": "gpt",
+                "value": "下颌后缩"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_front_Midline Deviation",
+        "images": [
+            "data/imgs/item1181/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者的中线表现是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_3483_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_3483.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have a root canal filling?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_front_Deep Overbite",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a deep overbite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_left_275_Soft Deposit",
+        "images": [
+            "data/imgs/left_275.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have soft deposits?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请问患者是否存在上颌发育不足的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_front_1394_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/front_1394.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像评估患者是否有楔状缺损问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2869_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在连接桥？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a malocclusion problem due to maxillary hypoplasia?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's sagittal relationship based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "Abnormal"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4185_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm whether there is a prosthetic bridge disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5065_Apical Periodontitis",
+        "images": [
+            "data/imgs/panoramic_5065.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像判断，患者是否有根尖周炎异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4414_Caries",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在龋坏的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_3329_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_3329.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has an impacted tooth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_left_Angle's Classification",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, identify the patient's Angle's classification?"
+            },
+            {
+                "from": "gpt",
+                "value": "Angle Class II"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请问患者是否存在前牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an open bite malocclusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1022_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Is there any oral disease related to residual crowns identified in the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_left_Deep Overjet",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have deep overjet?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1971_Residual Root",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在残根的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_left_Angle's Classification",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，识别患者的安氏分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "安氏II类"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_lateral_Mandibular Retrognathism",
+        "images": [
+            "data/imgs/item1811/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images and confirm whether there is a malocclusion issue of mandibular retrognathism?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2869_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_2869.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, determine whether the patient has a prosthetic bridge?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2373_upper_Dental Crowding",
+        "images": [
+            "data/imgs/item2373/upper.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have dental crowding?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_left_Deep Overjet",
+        "images": [
+            "data/imgs/item3505/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在深覆盖？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1296_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有残冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_570_Demineralization",
+        "images": [
+            "data/imgs/right_570.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在脱钙的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1971_Residual Root",
+        "images": [
+            "data/imgs/panoramic_1971.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the imaging to determine if there is a disease related to residual roots?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3505_lateral_Skeletal Classification",
+        "images": [
+            "data/imgs/item3505/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析患者的骨性分类？"
+            },
+            {
+                "from": "gpt",
+                "value": "骨性II类"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_5156_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have a prosthetic crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lower_Dental Crowding",
+        "images": [
+            "data/imgs/item3564/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has dental crowding issues from the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5156_Prosthetic Crown",
+        "images": [
+            "data/imgs/panoramic_5156.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像分析，患者是否存在修复冠？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2109_Root Canal Therapy",
+        "images": [
+            "data/imgs/panoramic_2109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在根管填充？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item2982_lateral_Dental Protrusion",
+        "images": [
+            "data/imgs/item2982/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have dental protrusion through image recognition?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_4414_Caries",
+        "images": [
+            "data/imgs/panoramic_4414.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if there is the presence of caries."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_left_Posterior Scissor Bite",
+        "images": [
+            "data/imgs/item3564/left.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙锁合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1119_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1119.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像，判断是否存在牙磨损的疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有后牙反合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2519/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者的矢状关系表现是什么？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_right_Sagittal Relationship",
+        "images": [
+            "data/imgs/item2982/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像评估患者的矢状关系？"
+            },
+            {
+                "from": "gpt",
+                "value": "异常"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Types of Malocclusion",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Analyze the image and list the patient's types of malocclusion?"
+            },
+            {
+                "from": "gpt",
+                "value": "deep overbite,deep overjet"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_lateral_Facial Profile",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess the patient's facial profile based on imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "mandibular retrognathism"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2982_front_Deep Overbite",
+        "images": [
+            "data/imgs/item2982/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在深覆合？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3505_front_Deep Overbite",
+        "images": [
+            "data/imgs/item3505/front.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have a deep overbite issue?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1181_right_Posterior Crossbite",
+        "images": [
+            "data/imgs/item1181/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Check the images and confirm if there is a posterior crossbite issue with the molars?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_right_401_Wedge-shaped Defect",
+        "images": [
+            "data/imgs/right_401.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请确认患者是否患有楔状缺损？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item1811_right_Deep Overjet",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to identify whether a patient has deep overjet from the images?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_1296_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1296.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Please confirm whether the patient has a residual crown?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_2666_Impacted Tooth",
+        "images": [
+            "data/imgs/panoramic_2666.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像，判断患者是否存在阻生牙？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1811_right_Deep Overjet",
+        "images": [
+            "data/imgs/item1811/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别患者是否患有深覆盖的问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2089_Residual Root",
+        "images": [
+            "data/imgs/panoramic_2089.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have any oral diseases related to residual roots?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_453_Caries",
+        "images": [
+            "data/imgs/right_453.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging analysis, does the patient have caries?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_169_Demineralization",
+        "images": [
+            "data/imgs/right_169.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Evaluate the images to confirm if there is a demineralization disease?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_panoramic_2707_Insufficient Space for Primary Tooth Eruption",
+        "images": [
+            "data/imgs/panoramic_2707.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Based on the imaging, does the patient have insufficient space for the eruption of primary teeth?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_614_Periodontal Disease",
+        "images": [
+            "data/imgs/right_614.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Examine the images to determine if periodontal disease is present?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lower_Dental Spacing",
+        "images": [
+            "data/imgs/item2519/lower.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>检查影像并确认是否有牙列间隙的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item3564_lateral_Mandibular Protrusion",
+        "images": [
+            "data/imgs/item3564/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>通过影像识别，患者是否患有下颌前突？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_upper_1068_Tooth Wear",
+        "images": [
+            "data/imgs/upper_1068.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有牙磨损疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "是"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item1181_lateral_Open Bite",
+        "images": [
+            "data/imgs/item1181/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>患者是否存在开合的错合问题？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_dis_right_788_Soft Deposit",
+        "images": [
+            "data/imgs/right_788.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>How to assess whether the patient has a soft deposit problem through imaging?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_1022_Residual Crown",
+        "images": [
+            "data/imgs/panoramic_1022.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>从影像中识别是否有残冠的口腔疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_mal_item2519_lateral_Maxillary Hypoplasia",
+        "images": [
+            "data/imgs/item2519/lateral.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>请判断患者是否存在上颌发育不足？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_4185_Prosthetic Bridge",
+        "images": [
+            "data/imgs/panoramic_4185.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>评估影像，确认是否患有连接桥疾病？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "zh_dis_panoramic_5109_Implant",
+        "images": [
+            "data/imgs/panoramic_5109.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>根据影像判断，患者是否有种植体异常？"
+            },
+            {
+                "from": "gpt",
+                "value": "否"
+            }
+        ]
+    },
+    {
+        "id": "en_mal_item3564_right_Anterior Crossbite",
+        "images": [
+            "data/imgs/item3564/right.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>Does the patient have an anterior crossbite?"
+            },
+            {
+                "from": "gpt",
+                "value": "No"
+            }
+        ]
+    }
+]

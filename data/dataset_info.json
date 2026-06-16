@@ -1,0 +1,18 @@
+{
+  "inst_data_1st_train": {
+    "file_name": "inst_data_1st_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  },
+  "inst_data_2nd_train": {
+    "file_name": "inst_data_2nd_train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "images": "images"
+    }
+  }
+}

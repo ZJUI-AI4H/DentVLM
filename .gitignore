@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated artifacts
+answer/
+checkpoints/
+tokenized_data/
+logs/
+runs/
+wandb/
+
+# Large model and data artifacts
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.onnx
+*.arrow
+
+# Temporary files
+tmp/
+temp/
