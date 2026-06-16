@@ -1,7 +1,7 @@
-# DentVLM: A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice
+# DentVLM: A Multimodal Vision Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice
 
 <p align="center">
-  <a href="https://zenodo.org/records/18758765?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjRlMmU4NTM4LTIxMWUtNGMzOS1iMjMxLWZkY2EyZjFkMWRkOCIsImRhdGEiOnt9LCJyYW5kb20iOiJhYzdmMjExNGM0NWE1MzllMWUwNmM2YjNiYjM5NDZlNiJ9.02RftOzi0gfie0YOLkUTl3_r7i-LkIQ8eSVa3BN9477AsAhjE-E8YjzePGOoguQ6eOvWYv9Ia2waw1pmy2PBAA"><b>Model Checkpoint</b></a> |
+  <a href="https://huggingface.co/ZJU-AI4H/DentVLM"><b>Model Checkpoint</b></a> |
   <a href="#quick-start"><b>Quick Start</b></a> |
   <a href="#training"><b>Training</b></a> |
   <a href="#evaluation"><b>Evaluation</b></a>
@@ -9,7 +9,7 @@
 
 ## News
 
-- **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint.
+- **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint information.
 
 ## Overview
 
@@ -26,7 +26,7 @@ DentVLM is released for research use. Model outputs should not be used as the so
 
 ## Model Checkpoint
 
-The DentVLM checkpoint is available on [Zenodo](<https://zenodo.org/records/18758765?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjRlMmU4NTM4LTIxMWUtNGMzOS1iMjMxLWZkY2EyZjFkMWRkOCIsImRhdGEiOnt9LCJyYW5kb20iOiJhYzdmMjExNGM0NWE1MzllMWUwNmM2YjNiYjM5NDZlNiJ9.02RftOzi0gfie0YOLkUTl3_r7i-LkIQ8eSVa3BN9477AsAhjE-E8YjzePGOoguQ6eOvWYv9Ia2waw1pmy2PBAA>).
+The DentVLM checkpoint is hosted on [Hugging Face](https://huggingface.co/ZJU-AI4H/DentVLM). To request access to the model weights, please contact Z.L. at zuozhuliu@intl.zju.edu.cn.
 
 After downloading, place the checkpoint under `checkpoints/` or update `--model_dir` / `model_dir` to the local checkpoint path.
 
@@ -217,7 +217,7 @@ For technical questions about this repository, please contact Z.L. at zuozhuliu@
 
 ## Authors
 
-Zijie Meng<sup>1,2</sup>, Jin Hao<sup>3</sup>, Xiwei Dai<sup>1,2</sup>, Yang Feng<sup>4</sup>, Jiaxiang Liu<sup>2</sup>, Bin Feng<sup>1</sup>, Huikai Wu<sup>4</sup>, Xiaotang Gai<sup>1,2</sup>, Hengchuan Zhu<sup>1,2</sup>, Tianxiang Hu<sup>1,2</sup>, Yangyang Wu<sup>2</sup>, Hongxia Xu<sup>5</sup>, Jin Li<sup>6</sup>, Jun Xiao<sup>2</sup>, Xiaoqiang Liu<sup>7</sup>, Joey Tianyi Zhou<sup>8</sup>, Fudong Zhu<sup>1</sup>, Zhihe Zhao<sup>9</sup>, Lunguo Xia<sup>3</sup>, Bing Fang<sup>3</sup>, Jimeng Sun<sup>10</sup>, Jian Wu<sup>2,5</sup>, Zuozhu Liu<sup>1,2,5</sup>
+Zijie Meng<sup>1,2</sup>, Jin Hao<sup>3</sup>, Xiwei Dai<sup>1,2</sup>, Yang Feng<sup>4</sup>, Jiaxiang Liu<sup>2</sup>, Bin Feng<sup>1</sup>, Huikai Wu<sup>4</sup>, Xiaotang Gai<sup>1,2</sup>, Hengchuan Zhu<sup>1,2</sup>, Tianxiang Hu<sup>1,2</sup>, Yangyang Wu<sup>2</sup>, Hongxia Xu<sup>5</sup>, Jin Li<sup>6</sup>, Jun Xiao<sup>2</sup>, Xiaoqiang Liu<sup>7</sup>, Joey Tianyi Zhou<sup>8</sup>, Fudong Zhu<sup>1</sup>, Zhihe Zhao<sup>9</sup>, Bing Fang<sup>3</sup>, Lunguo Xia<sup>3</sup>, Jimeng Sun<sup>10</sup>, Jian Wu<sup>2,5</sup>, Zuozhu Liu<sup>1,2,5</sup>
 
 1. Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang University, Hangzhou 310016, Zhejiang, China.  
 2. College of Computer Science and Technology, Zhejiang University-University of Illinois Urbana-Champaign Institute, Zhejiang University, Hangzhou 310027, Zhejiang, China.  
