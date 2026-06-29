@@ -26,9 +26,9 @@ DentVLM is released for research use. Model outputs should not be used as the so
 
 ## Model Checkpoint
 
-The DentVLM checkpoint is hosted on [Hugging Face](https://huggingface.co/ZJU-AI4H/DentVLM). To request access to the model weights, please contact Z.L. at zuozhuliu@intl.zju.edu.cn.
+The DentVLM checkpoint is publicly accessible on [Hugging Face](https://huggingface.co/ZJU-AI4H/DentVLM). The model weights are released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0).
 
-After downloading, place the checkpoint under `checkpoints/` or update `--model_dir` / `model_dir` to the local checkpoint path.
+To access the checkpoint, please visit the Hugging Face model page and follow the access instructions. After downloading, place the checkpoint under `checkpoints/` or update `--model_dir` / `model_dir` to the local checkpoint path.
 
 ## Repository Structure
 
@@ -215,9 +215,24 @@ This repository builds on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Facto
 
 The source code in this repository is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
 
-The DentVLM model weights, checkpoints, clinical datasets, images, and any non-code assets are not covered by the Apache License 2.0 unless explicitly stated otherwise. Their use is subject to their respective access terms and data usage agreements.
+The DentVLM model weights are released under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). The model weights are intended for non-commercial academic and research use.
 
-DentVLM is intended for academic and research purposes. Model outputs should not be used as the sole basis for clinical diagnosis, treatment planning, or other medical decisions.
+Unless explicitly stated otherwise, clinical datasets, dental images, annotations, and other non-code assets are not covered by the Apache License 2.0 and may be subject to separate data usage agreements, privacy requirements, or institutional restrictions.
+
+DentVLM is intended for research use. Model outputs should not be used as the sole basis for clinical diagnosis, treatment planning, or other medical decisions.
+
+## Citation
+
+If you use DentVLM, please cite the associated manuscript and this model repository:
+
+```bibtex
+@article{meng2025dentvlm,
+  title={{DentVLM}: A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice},
+  author={Meng, Zijie and Hao, Jin and Dai, Xiwei and Feng, Yang and Liu, Jiaxiang and Feng, Bin and Wu, Huikai and Gai, Xiaotang and Zhu, Hengchuan and Hu, Tianxiang and others},
+  journal={arXiv preprint arXiv:2509.23344},
+  year={2025}
+}
+```
 
 ## Contact
 
