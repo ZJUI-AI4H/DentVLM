@@ -211,6 +211,14 @@ The evaluation script reports task-level scores and writes Excel summaries under
 
 This repository builds on [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL), and [vLLM](https://github.com/vllm-project/vllm). We thank the authors and contributors of these projects.
 
+## License
+
+The source code in this repository is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
+
+The DentVLM model weights, checkpoints, clinical datasets, images, and any non-code assets are not covered by the Apache License 2.0 unless explicitly stated otherwise. Their use is subject to their respective access terms and data usage agreements.
+
+DentVLM is intended for academic and research purposes. Model outputs should not be used as the sole basis for clinical diagnosis, treatment planning, or other medical decisions.
+
 ## Contact
 
 For technical questions about this repository, please contact Z.L. at zuozhuliu@intl.zju.edu.cn.
