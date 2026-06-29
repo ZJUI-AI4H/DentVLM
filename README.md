@@ -219,8 +219,6 @@ The DentVLM model weights are released under the Creative Commons Attribution-No
 
 Clinical datasets, dental images, annotations, and other non-code assets are not covered by the Apache License 2.0 and may be subject to separate data usage agreements, privacy requirements, or institutional restrictions.
 
-DentVLM is intended for research use. Model outputs should not be used as the sole basis for clinical diagnosis, treatment planning, or other medical decisions.
-
 ## Citation
 
 If you use DentVLM, please cite the associated manuscript and this model repository:
