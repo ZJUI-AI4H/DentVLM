@@ -9,8 +9,8 @@
 
 ## News
 
-* **2026.07**: 🎉 Our paper, *A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice*, has been published in **Nature Communications**!
-* **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint information.
+- **2026.07**: 🎉 Our paper, *A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice*, has been published in *Nature Communications*!
+- **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint information.
 
 ## Overview
 
