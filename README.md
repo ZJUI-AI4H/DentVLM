@@ -1,4 +1,4 @@
-# DentVLM: A Multimodal Vision Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice
+# DentVLM: A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice
 
 <p align="center">
   <a href="https://huggingface.co/ZJU-AI4H/DentVLM"><b>Model Checkpoint</b></a> |
@@ -9,7 +9,8 @@
 
 ## News
 
-- **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint information.
+* **2026.07**: 🎉 Our paper, *A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice*, has been published in **Nature Communications**!
+* **2026.06**: We release the DentVLM codebase, example data format, training scripts, inference script, evaluation script, and model checkpoint information.
 
 ## Overview
 
@@ -221,16 +222,17 @@ Clinical datasets, dental images, annotations, and other non-code assets are not
 
 ## Citation
 
-If you use DentVLM, please cite the associated manuscript and this model repository:
+If you use DentVLM, please cite our Nature Communications paper:
 
 ```bibtex
-@article{meng2025dentvlm,
-  title={{DentVLM}: A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice},
-  author={Meng, Zijie and Hao, Jin and Dai, Xiwei and Feng, Yang and Liu, Jiaxiang and Feng, Bin and Wu, Huikai and Gai, Xiaotang and Zhu, Hengchuan and Hu, Tianxiang and others},
-  journal={arXiv preprint arXiv:2509.23344},
-  year={2025}
+@article{meng2026multimodal,
+  title={A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice},
+  journal={Nature Communications},
+  year={2026},
+  doi={10.1038/s41467-026-75718-x}
 }
 ```
+
 
 ## Contact
 
